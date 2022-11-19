@@ -1,0 +1,11 @@
+{
+    "name": "com.test.qsh",
+    "version": "0.6.0",
+    "displayName": "QuickStartHeadlessMirrorK",
+    "description": "QuickStartHeadlessMirror",
+    "unity": "2020.1",
+    "author": {
+      "name": "JesusLuvsYooh",
+      "url": "https://github.com/googleforgames/agones"
+    }
+  }
